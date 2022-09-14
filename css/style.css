@@ -1,0 +1,24 @@
+h1 {
+  color:grey
+}
+h2 {
+  color: cadetblue;
+}
+h3 {color:darkblue
+}
+div.cartoon p{
+  color: darkmagenta;
+}
+.top p{
+  color:brown
+}
+.listnumer li,a{
+  color: blueviolet;
+}
+.listtext li{
+  color:crimson
+}
+
+.bottom{
+  color: dimgray;
+}
